@@ -1,4 +1,12 @@
-.card{
-    display: flex;
-    align-self: center;
+body {
+  height: 100vh;
+}
+
+.card {
+  display: flex;
+  align-self: center;
+}
+
+.h2 {
+  display: none;
 }
