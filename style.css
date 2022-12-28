@@ -10,3 +10,10 @@ body {
 .h2 {
   display: none;
 }
+.card {
+  min-width: 12rem;
+}
+
+.parentCard {
+  background-color: #d5e1ef;
+}
