@@ -26,8 +26,9 @@ body {
 }
 
 .img{
+  align-self: center;
   width: 13rem;
-  margin: 4%;
+  
   border-radius: 3%;
 }
 
