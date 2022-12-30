@@ -1,4 +1,7 @@
 body{
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
   background-color: #d5e1ef
 }
 img{
@@ -22,7 +25,7 @@ h2{
 
 .card{
   width: 18rem;
-  margin-top: 150px;
+  margin-top: 80px;
 }
 
 #text{
