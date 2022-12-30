@@ -4,6 +4,17 @@ body{
 img{
   height: 100%;
 }
+.conatiner{
+  background-color: hsl(0, 0%, 100%);
+    margin: 150px auto 130px auto;
+    width: 260px;
+    height: 300px;
+    padding: 15px 55px 175px 15px;
+    border-radius: 4%;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
 
 h2{
   text-align: center;
