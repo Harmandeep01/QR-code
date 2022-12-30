@@ -24,6 +24,7 @@ h2{
 }
 
 .card{
+  height: 27rem;
   width: 18rem;
   margin-top: 80px;
 }
